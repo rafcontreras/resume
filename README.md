@@ -26,9 +26,9 @@ An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by
 
 ### Sample Output
 
-- [PDF, English](https://latexonline.cc/compile?git=https://github.com/billryan/resume&target=resume.tex&command=xelatex)
-- [PDF with the photo, English](https://latexonline.cc/compile?git=https://github.com/billryan/resume&target=resume_photo.tex&command=xelatex)
-- [简体中文 PDF](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume-zh_CN.pdf)
+- [Resume, PDF, English](https://latexonline.cc/compile?git=https://github.com/rafcontreras/resume&target=resume.tex&command=xelatex)
+- [Cover Letter, PDF, English](https://latexonline.cc/compile?git=https://github.com/rafcontreras/resume&target=coverletter.tex&command=xelatex)
+- [PDF with the photo, English](https://latexonline.cc/compile?git=https://github.com/rafcontreras/resume&target=resume_photo.tex&command=xelatex)
 
 ![English](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume.png)
 ![English with photo](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume_photo.png)
