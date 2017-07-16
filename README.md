@@ -27,8 +27,7 @@ An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by
 ### Sample Output
 
 - [Resume UX Designer, PDF, English](https://latexonline.cc/compile?git=https://github.com/rafcontreras/resume&target=resumeUX.tex&command=xelatex)
-- [Resume Front-End Developer
-, PDF, English](https://latexonline.cc/compile?git=https://github.com/rafcontreras/resume&target=resumeUX.tex&command=xelatex)
+- [Resume Front-End Developer, PDF, English](https://latexonline.cc/compile?git=https://github.com/rafcontreras/resume&target=resumeFE.tex&command=xelatex)
 - [Cover Letter, PDF, English](https://latexonline.cc/compile?git=https://github.com/rafcontreras/resume&target=coverletter.tex&command=xelatex)
 - [PDF with the photo, English](https://latexonline.cc/compile?git=https://github.com/rafcontreras/resume&target=resume_photo.tex&command=xelatex)
 
